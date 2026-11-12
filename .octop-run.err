@@ -1,0 +1,16 @@
+INFO:     Started server process [21776]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8088 (Press CTRL+C to quit)
+INFO:     127.0.0.1:62430 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQyMTM1NTgsImV4cCI6MTc5NDI5OTk1OH0.JtZ-_sCZtAzx1iQgAX0aExdJr68Ns2LieJYp3DDzG4I" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:50864 - "WebSocket /api/agents/16FFC7/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQyMTM1NTgsImV4cCI6MTc5NDI5OTk1OH0.JtZ-_sCZtAzx1iQgAX0aExdJr68Ns2LieJYp3DDzG4I" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:62662 - "WebSocket /api/agents/16FFC7/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQyMTM1NTgsImV4cCI6MTc5NDI5OTk1OH0.JtZ-_sCZtAzx1iQgAX0aExdJr68Ns2LieJYp3DDzG4I" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:55182 - "WebSocket /api/agents/5G9YW3/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQyMTM1NTgsImV4cCI6MTc5NDI5OTk1OH0.JtZ-_sCZtAzx1iQgAX0aExdJr68Ns2LieJYp3DDzG4I" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
