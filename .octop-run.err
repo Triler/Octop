@@ -1,16 +1,65 @@
-INFO:     Started server process [21776]
+INFO:     Started server process [23724]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://127.0.0.1:8088 (Press CTRL+C to quit)
-INFO:     127.0.0.1:62430 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQyMTM1NTgsImV4cCI6MTc5NDI5OTk1OH0.JtZ-_sCZtAzx1iQgAX0aExdJr68Ns2LieJYp3DDzG4I" [accepted]
-INFO:     connection open
-INFO:     127.0.0.1:50864 - "WebSocket /api/agents/16FFC7/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQyMTM1NTgsImV4cCI6MTc5NDI5OTk1OH0.JtZ-_sCZtAzx1iQgAX0aExdJr68Ns2LieJYp3DDzG4I" [accepted]
+INFO:     127.0.0.1:57187 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjgzMDksImV4cCI6MTc5NDU1NDcwOX0.dRLS7WgpEcrpeGsDGrCplBDdW15wPl77dbDDvJmIECI" [accepted]
 INFO:     connection open
 INFO:     connection closed
-INFO:     127.0.0.1:62662 - "WebSocket /api/agents/16FFC7/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQyMTM1NTgsImV4cCI6MTc5NDI5OTk1OH0.JtZ-_sCZtAzx1iQgAX0aExdJr68Ns2LieJYp3DDzG4I" [accepted]
+INFO:     127.0.0.1:64711 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjgzMDksImV4cCI6MTc5NDU1NDcwOX0.dRLS7WgpEcrpeGsDGrCplBDdW15wPl77dbDDvJmIECI" [accepted]
 INFO:     connection open
 INFO:     connection closed
-INFO:     127.0.0.1:55182 - "WebSocket /api/agents/5G9YW3/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQyMTM1NTgsImV4cCI6MTc5NDI5OTk1OH0.JtZ-_sCZtAzx1iQgAX0aExdJr68Ns2LieJYp3DDzG4I" [accepted]
+INFO:     127.0.0.1:62611 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjgzMDksImV4cCI6MTc5NDU1NDcwOX0.dRLS7WgpEcrpeGsDGrCplBDdW15wPl77dbDDvJmIECI" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:54677 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjgzNzIsImV4cCI6MTc5NDU1NDc3Mn0.VL4IRi6Hs6Cvc9zZ2fC8aJOVXzGoY465HNSh3gP4GeM" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:62397 - "WebSocket /api/agents/main/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjgzNzIsImV4cCI6MTc5NDU1NDc3Mn0.VL4IRi6Hs6Cvc9zZ2fC8aJOVXzGoY465HNSh3gP4GeM" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:52418 - "WebSocket /api/agents/main/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjgzNzIsImV4cCI6MTc5NDU1NDc3Mn0.VL4IRi6Hs6Cvc9zZ2fC8aJOVXzGoY465HNSh3gP4GeM" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:58655 - "WebSocket /api/agents/main/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjgzNzIsImV4cCI6MTc5NDU1NDc3Mn0.VL4IRi6Hs6Cvc9zZ2fC8aJOVXzGoY465HNSh3gP4GeM" [accepted]
 INFO:     connection open
 INFO:     connection closed
 INFO:     connection closed
+INFO:     127.0.0.1:63353 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjgzNzIsImV4cCI6MTc5NDU1NDc3Mn0.VL4IRi6Hs6Cvc9zZ2fC8aJOVXzGoY465HNSh3gP4GeM" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:53731 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0Njg5MjAsImV4cCI6MTc5NDU1NTMyMH0.4NipmCLWhaQcPvTgRJuJGd72HaTv_kvWV3aASrqTHqg" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:58049 - "WebSocket /api/agents/main/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0Njg5MjAsImV4cCI6MTc5NDU1NTMyMH0.4NipmCLWhaQcPvTgRJuJGd72HaTv_kvWV3aASrqTHqg" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:64164 - "WebSocket /api/agents/5G9YW3/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0Njg5MjAsImV4cCI6MTc5NDU1NTMyMH0.4NipmCLWhaQcPvTgRJuJGd72HaTv_kvWV3aASrqTHqg" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:56437 - "WebSocket /api/agents/16FFC7/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0Njg5MjAsImV4cCI6MTc5NDU1NTMyMH0.4NipmCLWhaQcPvTgRJuJGd72HaTv_kvWV3aASrqTHqg" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:64711 - "WebSocket /api/agents/16FFC7/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0Njg5MjAsImV4cCI6MTc5NDU1NTMyMH0.4NipmCLWhaQcPvTgRJuJGd72HaTv_kvWV3aASrqTHqg" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:49367 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0Njg5MjAsImV4cCI6MTc5NDU1NTMyMH0.4NipmCLWhaQcPvTgRJuJGd72HaTv_kvWV3aASrqTHqg" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:59937 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0Njg5MjAsImV4cCI6MTc5NDU1NTMyMH0.4NipmCLWhaQcPvTgRJuJGd72HaTv_kvWV3aASrqTHqg" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:56921 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjkzMjMsImV4cCI6MTc5NDU1NTcyM30.W611ytODnYtsngmHthfmGSBP95foZkma8Y82DXAmv0Y" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:57640 - "WebSocket /api/agents/main/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjkzMjMsImV4cCI6MTc5NDU1NTcyM30.W611ytODnYtsngmHthfmGSBP95foZkma8Y82DXAmv0Y" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:54193 - "WebSocket /api/agents/16FFC7/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjkzMjMsImV4cCI6MTc5NDU1NTcyM30.W611ytODnYtsngmHthfmGSBP95foZkma8Y82DXAmv0Y" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     127.0.0.1:57709 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjkzMjMsImV4cCI6MTc5NDU1NTcyM30.W611ytODnYtsngmHthfmGSBP95foZkma8Y82DXAmv0Y" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:54889 - "WebSocket /api/notifications/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjkzMjMsImV4cCI6MTc5NDU1NTcyM30.W611ytODnYtsngmHthfmGSBP95foZkma8Y82DXAmv0Y" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:51790 - "WebSocket /api/agents/16FFC7/chat/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwidW5hbWUiOiJteXRob3MiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3OTQ0NjkzMjMsImV4cCI6MTc5NDU1NTcyM30.W611ytODnYtsngmHthfmGSBP95foZkma8Y82DXAmv0Y" [accepted]
+INFO:     connection open

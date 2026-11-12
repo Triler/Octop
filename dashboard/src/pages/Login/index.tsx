@@ -273,12 +273,13 @@ export default function LoginPage() {
           src={
             isDark ? "/logo_horizontal_white.png" : "/logo_horizontal_dark.png"
           }
-          alt="Octop"
+          alt="Memtra 家枢"
           style={{
-            height: 48,
-            width: "auto",
-            maxWidth: 260,
-            objectFit: "contain",
+            width: "100%",
+            maxWidth: 296,
+            height: 60,
+            objectFit: "cover",
+            objectPosition: "center",
             display: "block",
           }}
         />
